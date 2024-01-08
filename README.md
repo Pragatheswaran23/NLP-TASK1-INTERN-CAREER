@@ -1,4 +1,4 @@
-# Lawbot
+# Lawbot Using NLP
 ## Project Overview:
 
 This Python project implements a Law Bot using a simple neural network for natural language processing. The bot is designed to understand user inputs related to legal queries and provide appropriate responses. 
